@@ -5,6 +5,8 @@ VisualStudioVersion = 17.3.32901.215
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loose_Coupling", "Loose_Coupling\Loose_Coupling.csproj", "{2220E125-5BBF-41E9-A8BB-AC4A791B3175}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Single_Responsibility_Principle", "Single_Responsibility_Principle\Single_Responsibility_Principle.csproj", "{C0539801-AFCB-4EEA-8DBB-998FB11CA321}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{2220E125-5BBF-41E9-A8BB-AC4A791B3175}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2220E125-5BBF-41E9-A8BB-AC4A791B3175}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2220E125-5BBF-41E9-A8BB-AC4A791B3175}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0539801-AFCB-4EEA-8DBB-998FB11CA321}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0539801-AFCB-4EEA-8DBB-998FB11CA321}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0539801-AFCB-4EEA-8DBB-998FB11CA321}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0539801-AFCB-4EEA-8DBB-998FB11CA321}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
