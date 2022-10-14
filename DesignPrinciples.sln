@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32901.215
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loose_Coupling", "Loose_Coupling\Loose_Coupling.csproj", "{2220E125-5BBF-41E9-A8BB-AC4A791B3175}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Loose_Coupling", "Loose_Coupling\Loose_Coupling.csproj", "{2220E125-5BBF-41E9-A8BB-AC4A791B3175}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Single_Responsibility_Principle", "Single_Responsibility_Principle\Single_Responsibility_Principle.csproj", "{C0539801-AFCB-4EEA-8DBB-998FB11CA321}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Single_Responsibility_Principle", "Single_Responsibility_Principle\Single_Responsibility_Principle.csproj", "{C0539801-AFCB-4EEA-8DBB-998FB11CA321}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Open_Closed_Principle", "Open_Closed_Principle\Open_Closed_Principle.csproj", "{43740CEA-817C-4599-BA10-9D27AF1E662E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{C0539801-AFCB-4EEA-8DBB-998FB11CA321}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C0539801-AFCB-4EEA-8DBB-998FB11CA321}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C0539801-AFCB-4EEA-8DBB-998FB11CA321}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43740CEA-817C-4599-BA10-9D27AF1E662E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43740CEA-817C-4599-BA10-9D27AF1E662E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43740CEA-817C-4599-BA10-9D27AF1E662E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43740CEA-817C-4599-BA10-9D27AF1E662E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
