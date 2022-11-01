@@ -17,7 +17,7 @@ class Gmail
 {
     public void Send(string mail)
     {
-        //...Send Mail...
+        //...Send Mail.....
     }
 }
 class Yandex
